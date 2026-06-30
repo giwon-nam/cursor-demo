@@ -1,4 +1,4 @@
-import { extractEmails, getValidEmails, getEmailDomain } from "./email.js";
+import { extractEmails, getValidEmails, getEmailDomain } from "./entity/email.js";
 
 console.log('hello cursor');
 
