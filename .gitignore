@@ -1,0 +1,4 @@
+node_modules/
+
+# 훅이 생성하는 런타임 로그 (저장소에 포함하지 않음)
+.cursor/hooks/logs/
