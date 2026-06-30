@@ -1,6 +1,7 @@
 # cursor-demo
 
 이메일 추출/검증 유틸리티 데모 프로젝트입니다. RFC 5322 권장 정규식 기반 검증과 ES Modules를 사용합니다.
+강의 자료: kznetwork
 
 ## 설치 및 실행
 
